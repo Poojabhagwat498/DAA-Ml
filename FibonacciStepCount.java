@@ -36,7 +36,7 @@ public class FibonacciStepCount {
 
             c = a + b;
 
-            stepCount++;      // Addition step
+            stepCount++; // Addition step
 
             System.out.print(c + " ");
 
@@ -44,7 +44,7 @@ public class FibonacciStepCount {
 
             b = c;
 
-            stepCount += 2;   // Assignment steps
+            stepCount += 2; // Assignment steps
 
         }
 
